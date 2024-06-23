@@ -23,7 +23,8 @@ This is a fork of the original Chieftain 42 split keyboard case, initially desig
 ### 1. Battery Well
 - **Description:** The battery well has been enlarged to accommodate a 750mAh battery.
 - **Specification:** The well size ensures a snug fit for the specified battery, enhancing the keyboard's power capacity.
-- **Image:** ![Battery Well](https://github.com/Opayman/keyboard-armory-battery-/assets/77932065/8ecf7208-f531-49b2-aaf7-32f6f8258d28)
+![Battery Well](https://github.com/Opayman/keyboard-armory-battery-/assets/77932065/8ecf7208-f531-49b2-aaf7-32f6f8258d28)
+![Increased Case Size](https://github.com/Opayman/keyboard-armory-battery-/assets/77932065/44831d98-12bb-48a7-8cf7-853f9304d150)
 
 ### 2. Larger Side Hole
 - **Description:** The side hole has been expanded by +7.5mm to accommodate a TRRS connector and a side reset button.
@@ -34,7 +35,6 @@ This is a fork of the original Chieftain 42 split keyboard case, initially desig
 - **Description:** The bottom plate of the case has been expanded by 2.5mm.
 - **Impact:** This requires the use of 6-8mm M2 screws instead of the originally proposed screws.
 - **Reminder:** Ensure to use 6-8mm M2 screws for assembly due to the increased size of the bottom plate.
-- **Image:** ![Increased Case Size](https://github.com/Opayman/keyboard-armory-battery-/assets/77932065/44831d98-12bb-48a7-8cf7-853f9304d150)
 
 ---
 
@@ -52,7 +52,7 @@ This is a fork of the original Chieftain 42 split keyboard case, initially desig
 
 ---
 
-## Assembly Instructions
+# # Assembly Instructions
 
 1. **Print the modified parts using the recommended settings.**
 2. **Ensure you have the appropriate screws (6-8mm M2) for the assembly.**
