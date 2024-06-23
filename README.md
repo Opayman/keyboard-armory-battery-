@@ -16,6 +16,9 @@ This is a fork of the original Chieftain 42 split keyboard case, initially desig
 
 **Important Note:** These designs are intended for personal use only and should not be produced or sold commercially.
 
+![image](https://github.com/Opayman/keyboard-armory-battery-/assets/77932065/ca236bee-00bb-48e4-b1df-b4a60b163190)
+
+
 ---
 
 ## Modifications Made
@@ -43,6 +46,8 @@ This is a fork of the original Chieftain 42 split keyboard case, initially desig
 - **Material Used:** PETG
 - **Color:** Transparent with a gray max grid
 - **Printing Tips:** Print settings should be adjusted to ensure durability and a good fit for the new battery well and side modifications.
+- Plate is the same as original design
+- Fork is in [CorneCase-battery] folder and plate is available in original [chieftain-42] folder
 
 ### Final Printed Version
 - **Images:**
@@ -71,7 +76,7 @@ For a comprehensive guide on assembling the Chieftain 42, refer to the original 
 - **Credits:** Original design by Ryanmyang (keyboard-armory). Modifications by Opayman with support from Razcall.
 
 ---
-
+Tested & validated with aurora corne pcb and corne 3.1 pcb
 Thank you for using and contributing to the Chieftain 42 split keyboard community! For any questions or further modifications, feel free to reach out.
 
 ---
