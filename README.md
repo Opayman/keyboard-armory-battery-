@@ -21,7 +21,7 @@ This is a fork of the original Chieftain 42 split keyboard case, initially desig
 ## Modifications Made
 
 ### 1. Battery Well
-- **Description:** The battery well has been enlarged to accommodate a 750mAh battery.
+- **Description:** The battery well has been enlarged to accommodate a 620-750mAh battery.
 - **Specification:** The well size ensures a snug fit for the specified battery, enhancing the keyboard's power capacity.
 ![Battery Well](https://github.com/Opayman/keyboard-armory-battery-/assets/77932065/8ecf7208-f531-49b2-aaf7-32f6f8258d28)
 ![Increased Case Size](https://github.com/Opayman/keyboard-armory-battery-/assets/77932065/44831d98-12bb-48a7-8cf7-853f9304d150)
